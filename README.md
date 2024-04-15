@@ -25,6 +25,6 @@ C# é uma linguagem de programação orientada a objetos e orientada a component
 
 --> **Código Imperativo**: https://www.onlinegdb.com/edit/OqjcUcp-D
 
---> **Código Orientada a Objeto**: 
+--> **Código Orientada a Objeto**: https://www.onlinegdb.com/edit/7J7UuKx1B
 
 --> **Código Funcional**: https://www.onlinegdb.com/edit/_ruqVRs4i
