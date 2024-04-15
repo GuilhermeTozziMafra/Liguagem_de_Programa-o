@@ -13,4 +13,12 @@ C# é uma linguagem de programação orientada a objetos e orientada a component
 
 --> Os programas do C# são executados em .NET (https://dotnet.microsoft.com/pt-br/download), pois um sistema de execução virtual chamado CLR (Common Language Runtime) é a base para criar ambientes de execução e desenvolvimento nos quais as linguagens e bibliotecas funcionam em conjunto perfeitamente.
 
+## Informações Básica dos Códigos:
+**Código Orientada a Objeto**:
+
+**Código Funcional**:
+
+**Código Imperativo**: Descrição sequencial de instruçõs para manipular dados e controlar instruções, além de exaltar a ordem das execuções durante todo o problema.
+
+
 ## Códigos utilizados para realizar o trabalho:
