@@ -16,7 +16,7 @@ C# é uma linguagem de programação orientada a objetos e orientada a component
 ## Informações Básica dos Códigos:
 **Código Orientada a Objeto**: Usamos a orientação a objetos para nos basear na vida real e resolver problemas de software, além de todas as interações necessárias para que o software funcione ocorrem através de mensagens e comandos trocados entre estes objetos.
 
-**Código Funcional**:
+**Código Funcional**: Evitar a mutação do estado e Ter funções de primeira classe.
 
 **Código Imperativo**: Descrição sequencial de instruçõs para manipular dados e controlar instruções, além de exaltar a ordem das execuções durante todo o problema.
 
